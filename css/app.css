@@ -1,0 +1,24 @@
+#app-controls {
+  margin: 10px auto;
+  text-align: center;
+}
+
+#app-container {
+  margin: 10px auto;
+  width: 480px;
+  height: 480px;
+  border: solid 10px #999;
+  border-radius: 20px;
+  background-color: #ffffff;
+  font-size: 0;
+}
+
+.pixel {
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+.pixel-column {
+    vertical-align: top;
+    text-decoration: none;
+}
